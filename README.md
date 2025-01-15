@@ -1,1 +1,1 @@
-# Hubble-constant-estimate
+# Hubble-constant-estimator
